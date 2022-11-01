@@ -1,0 +1,231 @@
+.container {
+    width: 1200px;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.header-logo {
+    margin-right: 562px;
+}
+
+.header-list {
+    list-style: none;
+    display: flex;
+}
+
+.header-item {
+    margin-right: 40px;
+}
+
+.header-list-link {
+    text-decoration: none;
+    color: #242A45;
+}
+
+.header-link {
+    width: 111px;
+    height: 40px;
+    display: flex;
+    border-radius: 5px;
+    background-color: #FA5959;;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+.manager {
+    margin-top: 100px;
+}
+
+.manager-block {
+    display: flex;
+}
+
+.manager-box {
+    margin-top: 50px;
+}
+
+.manager-title {
+    width: 300px;
+    height: 100px;
+    font-size: 34px;
+    color: #242A45;
+}
+
+.manager-des {
+    width: 600px;
+    height: 40px;
+    color: #242A45;
+    opacity: 0.5;
+}
+
+.manager-links {
+    margin-top: 50px;
+}
+
+.manager-link {
+    width: 120px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #5267DF;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+.feature {
+    margin-top: 100px;
+}
+
+.feature-title {
+    width: 300px;
+    height: 15px;
+    font-size: 34px;
+    color: #242A45;
+    margin-left: 525px;
+}
+
+.feature-des {
+    width: 420px;
+    height: 100px;
+    margin-left: 380px;
+    text-align: center;
+    color: #242A45;
+    opacity: 0.5;
+}
+
+.feature2 {
+    display: flex;
+}
+
+.feature2-box {
+    margin-left: 140px;
+    margin-top: 50px;
+}
+
+.feature2-title {
+    width: 400px;
+    height: 50px;
+    font-size: 34px;
+    color: #242A45;
+}
+
+.feature2-des {
+    width: 350px;
+    width: 400px;
+}
+
+.feature2-link {
+    margin-top: 50px;
+    width: 100px;
+    height: 40px;
+    display: flex;
+    border-radius: 5px;
+    background-color: #5267DF;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+.download {
+    margin-top: 100px;
+}
+
+.about-download {
+    margin-left: 380px;
+    margin-right: 400px;
+}
+
+.download-title {
+    width: 470px;
+    height: 50px;
+    font-size: 34px;
+    color: #242A45;
+    text-align: center;
+}
+
+.download-des {
+    width: 450px;
+    height: 50px;
+    text-align: center;
+    color: #242A45;
+}
+
+.download-list {
+    list-style: none;
+    display: flex;
+    margin: 0 auto;
+}
+
+.download-item {
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0px 2px 5px #000;
+    padding-top: 30px;
+}
+
+.download-item:hover {
+    box-shadow: 0px 5px 10px #000;
+    width: 210px;
+    height: 310px;
+}
+
+.download-link {
+    width: 180px;
+    display: flex;
+    flex-flow: column wrap;
+    margin-top: 50px;
+    margin-left: 10px;
+    border-radius: 5px;
+    background-color: #5267DF;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+}
+
+.end {
+    width: 1200px;
+    height: 60px;
+    display: flex;
+    margin-top: 100px;
+    background-color: #242A45;
+    align-items: center;
+}
+
+.end-list {
+    list-style: none;
+    display: flex;
+}
+
+.end-item {
+    margin-left: 40px; 
+}
+
+.end-list-link {
+    text-decoration: none;
+    color: #fff;   
+}
+
+.end-icons {
+    margin-left: 400px;
+}
+
+.icons-link {
+    margin-left: 20px;
+}
